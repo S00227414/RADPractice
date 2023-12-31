@@ -1,0 +1,14 @@
+C:\Users\T440P i5\Desktop\BScComputing\YearThree\SemsterOne\Rad\ExamPractice\ExamPractice\Week8ClassLibrary2023.DataLayer\bin\Debug\net7.0\Week8ClassLibrary2023.DataLayer.deps.json
+C:\Users\T440P i5\Desktop\BScComputing\YearThree\SemsterOne\Rad\ExamPractice\ExamPractice\Week8ClassLibrary2023.DataLayer\bin\Debug\net7.0\Week8ClassLibrary2023.DataLayer.runtimeconfig.json
+C:\Users\T440P i5\Desktop\BScComputing\YearThree\SemsterOne\Rad\ExamPractice\ExamPractice\Week8ClassLibrary2023.DataLayer\bin\Debug\net7.0\Week8ClassLibrary2023.DataLayer.dll
+C:\Users\T440P i5\Desktop\BScComputing\YearThree\SemsterOne\Rad\ExamPractice\ExamPractice\Week8ClassLibrary2023.DataLayer\bin\Debug\net7.0\Week8ClassLibrary2023.DataLayer.pdb
+C:\Users\T440P i5\Desktop\BScComputing\YearThree\SemsterOne\Rad\ExamPractice\ExamPractice\Week8ClassLibrary2023.DataLayer\obj\Debug\net7.0\Week8ClassLibrary2023.DataLayer.csproj.AssemblyReference.cache
+C:\Users\T440P i5\Desktop\BScComputing\YearThree\SemsterOne\Rad\ExamPractice\ExamPractice\Week8ClassLibrary2023.DataLayer\obj\Debug\net7.0\Week8ClassLibrary2023.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T440P i5\Desktop\BScComputing\YearThree\SemsterOne\Rad\ExamPractice\ExamPractice\Week8ClassLibrary2023.DataLayer\obj\Debug\net7.0\Week8ClassLibrary2023.DataLayer.AssemblyInfoInputs.cache
+C:\Users\T440P i5\Desktop\BScComputing\YearThree\SemsterOne\Rad\ExamPractice\ExamPractice\Week8ClassLibrary2023.DataLayer\obj\Debug\net7.0\Week8ClassLibrary2023.DataLayer.AssemblyInfo.cs
+C:\Users\T440P i5\Desktop\BScComputing\YearThree\SemsterOne\Rad\ExamPractice\ExamPractice\Week8ClassLibrary2023.DataLayer\obj\Debug\net7.0\Week8ClassLibrary2023.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\T440P i5\Desktop\BScComputing\YearThree\SemsterOne\Rad\ExamPractice\ExamPractice\Week8ClassLibrary2023.DataLayer\obj\Debug\net7.0\Week8ClassLibrary2023.DataLayer.dll
+C:\Users\T440P i5\Desktop\BScComputing\YearThree\SemsterOne\Rad\ExamPractice\ExamPractice\Week8ClassLibrary2023.DataLayer\obj\Debug\net7.0\refint\Week8ClassLibrary2023.DataLayer.dll
+C:\Users\T440P i5\Desktop\BScComputing\YearThree\SemsterOne\Rad\ExamPractice\ExamPractice\Week8ClassLibrary2023.DataLayer\obj\Debug\net7.0\Week8ClassLibrary2023.DataLayer.pdb
+C:\Users\T440P i5\Desktop\BScComputing\YearThree\SemsterOne\Rad\ExamPractice\ExamPractice\Week8ClassLibrary2023.DataLayer\obj\Debug\net7.0\Week8ClassLibrary2023.DataLayer.genruntimeconfig.cache
+C:\Users\T440P i5\Desktop\BScComputing\YearThree\SemsterOne\Rad\ExamPractice\ExamPractice\Week8ClassLibrary2023.DataLayer\obj\Debug\net7.0\ref\Week8ClassLibrary2023.DataLayer.dll
