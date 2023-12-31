@@ -43,5 +43,7 @@ namespace ClubModels
 
             base.OnModelCreating(modelBuilder);
         }
+
+        
     }
 }

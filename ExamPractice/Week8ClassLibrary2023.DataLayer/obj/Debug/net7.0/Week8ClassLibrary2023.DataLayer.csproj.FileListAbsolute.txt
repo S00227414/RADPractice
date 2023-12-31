@@ -12,3 +12,4 @@ C:\Users\T440P i5\Desktop\BScComputing\YearThree\SemsterOne\Rad\ExamPractice\Exa
 C:\Users\T440P i5\Desktop\BScComputing\YearThree\SemsterOne\Rad\ExamPractice\ExamPractice\Week8ClassLibrary2023.DataLayer\obj\Debug\net7.0\Week8ClassLibrary2023.DataLayer.pdb
 C:\Users\T440P i5\Desktop\BScComputing\YearThree\SemsterOne\Rad\ExamPractice\ExamPractice\Week8ClassLibrary2023.DataLayer\obj\Debug\net7.0\Week8ClassLibrary2023.DataLayer.genruntimeconfig.cache
 C:\Users\T440P i5\Desktop\BScComputing\YearThree\SemsterOne\Rad\ExamPractice\ExamPractice\Week8ClassLibrary2023.DataLayer\obj\Debug\net7.0\ref\Week8ClassLibrary2023.DataLayer.dll
+C:\Users\T440P i5\Desktop\BScComputing\YearThree\SemsterOne\Rad\ExamPractice\ExamPractice\Week8ClassLibrary2023.DataLayer\obj\Debug\net7.0\Week8ClassLibrary2023.DataLayer.sourcelink.json
